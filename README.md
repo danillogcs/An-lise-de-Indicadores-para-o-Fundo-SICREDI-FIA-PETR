@@ -1,0 +1,1 @@
+Este projeto é o primeiro fruto da pesquisa de Iniciação Científica em 'Análise de Indicadores de Desempenho na Formulação de Estratégias Quantitativas de Investimento em Fundos de Ações'. Nele, os dados são obtidos da CVM, Banco Central do Brasil e YahooFinance para o cálculo de indicadores técnicos do fundo de ações SICREDI FIA PETROBRÁS. 
